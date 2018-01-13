@@ -8,8 +8,8 @@ email: 389454401@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   橡树果的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: http://xxx.org # the base hostname & protocol for your site
-#rss_url: /pages/feed.xml
+url: http://xxx.org # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
 author: XSG(modifier)
 
 # Sidebar filter

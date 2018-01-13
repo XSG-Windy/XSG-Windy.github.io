@@ -3,7 +3,6 @@
 # title: 闫肃的博客
 # email: suyan0830@gmail.com
 
-
 title: 橡树果的博客
 email: 389454401@qq.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -12,7 +11,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 #url: http://xxx.org # the base hostname & protocol for your site
 #rss_url: /pages/feed.xml
 author: XSG(modifier)
-
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.

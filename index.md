@@ -28,3 +28,7 @@ layout: post
   本博客的源码作者为suyan，源码托管在 [Github](https://github.com/suyan/suyan.github.io) 上
   
   本博客源代码遵循[MIT协议](https://github.com/XSG-Windy/XSG-Windy.github.io/blob/master/LICENSE.txt)，博客内容遵循[知识共享3.0协议](https://github.com/XSG-Windy/XSG-Windy.github.io/blob/master/LICENSE(CONTENT).txt)，详细协议内容可在配置文件中查看
+
+
+
+Idina Menze和Caleb Hyles激情对唱Let It Go：<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0" frameborder=0 allowfullscreen></iframe>

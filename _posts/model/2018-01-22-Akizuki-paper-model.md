@@ -4,7 +4,6 @@ title: 秋月号驱逐舰模型
 category: 模型
 keywords: 纸模型
 ---
- 
 ### 秋月 あきづき(A-ki-zu-ki)
  
 ### 秋月号驱逐舰基本信息

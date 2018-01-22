@@ -5,11 +5,11 @@ category: 模型
 keywords: 纸模型
 ---
  
-### 秋月 あきづき(A-ki-zi-ki)
+### 秋月 あきづき(A-ki-zu-ki)
  
 ### 秋月号驱逐舰基本信息
 
-   ![秋月号](https://raw.githubusercontent.com/XSG-Windy/XSG-Windy.github.io/master/_posts/picdata-no%20artical/akiziki001.jpg)
+   ![秋月号](https://raw.githubusercontent.com/XSG-Windy/XSG-Windy.github.io/master/_posts/picdata-no%20artical/akizuki001.jpg)
    
    
    秋月级驱逐舰是日本海军专为防空任务研制的专用型驱逐舰，在计划时称为乙型驱逐舰，各舰均用「月型」命名，计划建造39艘，实际只完成12艘。
@@ -36,4 +36,4 @@ keywords: 纸模型
     
 ### 立绘
  
-   ![秋月立绘](https://raw.githubusercontent.com/XSG-Windy/XSG-Windy.github.io/master/_posts/picdata-no%20artical/akiziki002.jpg)
+   ![秋月立绘](https://raw.githubusercontent.com/XSG-Windy/XSG-Windy.github.io/master/_posts/picdata-no%20artical/akizuki002.jpg)

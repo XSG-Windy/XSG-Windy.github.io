@@ -32,9 +32,3 @@ keywords: 纸模型
    本次3D化自2018年1月1日正式启动，预计于2018年2月20日完工。
    
    详细可以关注[工程页面](https://github.com/XSG-Windy/Model-Design)
-    
-### 立绘
- 
-   ![秋月立绘](https://raw.githubusercontent.com/XSG-Windy/XSG-Windy.github.io/master/_posts/picdata-no%20artical/akizuki002.jpg)
-
-

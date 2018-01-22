@@ -5,6 +5,8 @@ category: 模型
 keywords: 纸模型
 ---
  
+### 秋月 あきづき(A-ki-zi-ki)
+ 
 ### 秋月号驱逐舰基本信息
 
    ![秋月号](https://raw.githubusercontent.com/XSG-Windy/XSG-Windy.github.io/master/_posts/picdata-no%20artical/akiziki001.jpg)
